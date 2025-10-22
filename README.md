@@ -1,3 +1,5 @@
+<img width="594" height="159" alt="image" src="https://github.com/user-attachments/assets/d5d9c578-ecee-4d79-869e-bd0b7e54be33" />
+
 # Tic-Tac-Toe (Jogo da Velha)
 
 Pequeno jogo de Tic-Tac-Toe (Jogo da Velha) implementado em Python. O jogador humano joga com "O" e a IA joga com "X". A IA usa o algoritmo Minimax para escolher jogadas ótimas.
